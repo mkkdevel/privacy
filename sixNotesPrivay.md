@@ -9,11 +9,11 @@ This app does not come with any warranty.
 
 
 sixNotes does **not** collect any user or usage data.
-There is no logging funcionality in the app. Except a debug logger, which is turned off in production versions.
+There is no logging functionality in the app. Except a debug logger, which is turned off in production versions.
 We do not have access to any information in your app.
 
 If you use the iCloud sync feature (off by default), the data are stored in your personal iCloud account.
-For information about iCloud privay pleases visit:
+For information about iCloud privacy please visit:
 https://www.apple.com/legal/privacy/en-ww/
 
 As this document is hosted on Github you may want to read also their privay statement:
