@@ -1,0 +1,3 @@
+# Privacy Policy for sixNotes
+
+## To be done...
