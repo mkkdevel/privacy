@@ -1,0 +1,22 @@
+# Privacy Policy for gardenPi
+
+We - **mkkDevel** - built **gardenPi** app as a free app for iOS. 
+This App is provided by **mkkDevel** and is intended for use as it is.
+This app does not come with any warranty.
+
+
+**This document is used to inform you about your privacy when using this app.**
+
+
+gardenPi does **not** collect any user or usage data.
+There is no logging functionality in the app. Except a debug logger, which is turned off in production versions.
+We do not have access to any information in your app.
+
+As this document is hosted on Github you may want to read also their privay statement:
+https://help.github.com/en/articles/github-privacy-statement
+
+
+This privacy policy may change in future. So, to stay updated visit this page peridodically.
+If you have any further questions, don't hesitate to contact us:
+
+gardenpi(at)maky.at
